@@ -57,15 +57,4 @@ python exercises/todo_list.py
 
 ## Learning notes
 
-The full notes are in [notes/notes.md](notes/notes.md). They are written in
-Markdown so they can be pasted directly into a Notion page or converted to
-a Google Doc for submission.
-
-## Submission
-
-- GitHub repository link: **[PASTE LINK AFTER PUSHING]**
-- Learning notes link: **[PASTE GOOGLE DOCS / NOTION LINK AFTER SHARING]**
-
-## Next
-
-Proceed to **Module 2: Python Mini Project (Expense Tracker)**.
+The full notes are in [notes/notes.md](notes/notes.md). 
